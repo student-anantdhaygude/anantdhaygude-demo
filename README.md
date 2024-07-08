@@ -1,4 +1,4 @@
 # anantdhaygude-demo
 This is my first Git Repository.
 <br>
-Author - Anant dhaygude
+Author - Anant (software developer)
